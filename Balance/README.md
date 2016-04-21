@@ -9,4 +9,4 @@ The following qualitative tests were employed: Short Falls Efficacy Scale Intern
 
 For more information see [http://demotu.org/datasets/balance/](http://demotu.org/datasets/balance/).
 
-See [Exploration of the dataset with human balance evaluations](http://nbviewer.jupyter.org/github/demotu/datasets/blob/master/Balance/BalanceDatasetAnalysis.ipynb) and [Balance dataset: selection of trials](http://nbviewer.jupyter.org/github/demotu/datasets/blob/master/Balance/BalanceDatasetSelection.ipynb) for examples on how to use use the data set.
+See [Exploration of the dataset with human balance evaluations](http://nbviewer.jupyter.org/github/demotu/datasets/blob/master/Balance/BalanceDatasetAnalysis.ipynb) and [Balance dataset: selection of trials](http://nbviewer.jupyter.org/github/demotu/datasets/blob/master/Balance/BalanceDatasetSelection.ipynb) for examples on how to use the data set.
