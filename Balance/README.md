@@ -1,13 +1,13 @@
 Balance Dataset
 ===============
 
-A public data set of quantitative and qualitative evaluations of human balance.  
+A public data set of human balance evaluations.  
 
-The quantitative evaluation was performed by stabilography (posturography) using a force platform. We evaluated subjects during standing still for 60 s in four different conditions where vision and the standing surface were manipulated: eyes open on a rigid surface; eyes closed on a rigid surface; eyes open on an unstable surface; eyes closed on an unstable surface. Each condition was performed three times and the order of the conditions was randomized among subjects.  
+Subject’s balance was evaluated by posturography using a force platform and by the Mini Balance Evaluation Systems Tests. In the posturography test, we evaluated subjects during standing still for 60 s in four different conditions where vision and the standing surface were manipulated: on a rigid surface with eyes open; on a rigid surface with eyes closed; on an unstable surface with eyes open; on an unstable surface with eyes closed. Each condition was performed three times and the order of the conditions was randomized among subjects. In addition, the following tests were employed in order to better characterize each subject: Short Falls Efficacy Scale International; International Physical Activity Questionnaire Short Version; and Trail Making Test. The subjects were also interviewed to collect information about their socio-cultural, demographic, and health characteristics.  
 
-The following qualitative tests were employed: Short Falls Efficacy Scale International; International Physical Activity Questionnaire Short Version; Trail Making Test; and Mini Balance Evaluation Systems Tests. 
+The data set comprises signals from the force platform (raw data for the force, moments of forces, and centers of pressure) of 163 subjects plus one file with information about the subjects and balance conditions and the results of the other evaluations.  
 
-The subjects were also interviewed to collect information about their sociocultural, demographic, and health characteristics.  
+All the data is available at PhysioNet (DOI: 10.13026/C2WW2W) and at Figshare (DOI: 10.6084/m9.figshare.3394432). 
 
 For more information see [http://demotu.org/datasets/balance/](http://demotu.org/datasets/balance/).
 
