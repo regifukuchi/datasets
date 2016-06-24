@@ -7,7 +7,7 @@ Subject’s balance was evaluated by posturography using a force platform and by
 
 The data set comprises signals from the force platform (raw data for the force, moments of forces, and centers of pressure) of 163 subjects plus one file with information about the subjects and balance conditions and the results of the other evaluations.  
 
-All the data is available at PhysioNet (DOI: 10.13026/C2WW2W) and at Figshare (DOI: 10.6084/m9.figshare.3394432). 
+All the data is available at PhysioNet (DOI: [10.13026/C2WW2W](https://dx.doi.org/10.13026/C2WW2W)) and at Figshare (DOI: [10.6084/m9.figshare.3394432](https://dx.doi.org/10.6084/m9.figshare.3394432)). 
 
 For more information see [http://demotu.org/datasets/balance/](http://demotu.org/datasets/balance/).
 
