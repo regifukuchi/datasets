@@ -1,5 +1,5 @@
-Balance Dataset
-===============
+BDS: Balance Data Set
+====================
 
 This data set comprises signals from the force platform (raw data for the force, moments of forces, and centers of pressure) of 163 subjects plus one file with information about the subjects and balance conditions and the results of the other evaluations. 
 
