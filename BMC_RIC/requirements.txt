@@ -1,0 +1,9 @@
+numpy
+scipy
+matplotlib
+seaborn
+pandas
+pingouin
+spm1d
+ipympl
+tqdm
